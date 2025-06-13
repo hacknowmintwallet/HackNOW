@@ -1,6 +1,6 @@
 # Hi, I’m @LightBrowserOfficial
 
-**I love contributing and creating computer applications!**
+**I love contributing and creating Puter applications!**
 
 # Programming languages
 
